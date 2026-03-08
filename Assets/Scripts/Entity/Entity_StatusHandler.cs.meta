@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 42fd019962dcf4df89516516869cd8e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lighingStrikeVfx: {fileID: 51029907680255264, guid: 8613ada9b12994f968595d06d60cc7fd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
